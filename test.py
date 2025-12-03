@@ -14,7 +14,5 @@ print("hello world!")
 
 
 
-print("This is my new commit in test.py")
-
-for i in range(0,10):
-    print(i% 2 == 0)
+print("This is my new commit in testfile")
+print("This is my new commit in testrepository")
